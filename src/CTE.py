@@ -1,5 +1,4 @@
 import zipfile
-import os
 import ttkbootstrap as tb
 from tkinter import filedialog, messagebox
 
